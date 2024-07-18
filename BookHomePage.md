@@ -1,4 +1,4 @@
-# Book Homepage
+# My Book Forever Landing Page
 This page serves as the lesson homepage for students.
 
 ## Additional Page
